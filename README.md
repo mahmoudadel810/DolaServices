@@ -7,7 +7,7 @@
 
 A modern, dark-themed landing page for digital services built with Bootstrap 5.
 
-![Project Preview](https://via.placeholder.com/800x400/212529/FFFFFF?text=Nexus+Services+Preview)
+![Project Preview](https://mahmoudadel810.github.io/DolaServices/)
 
 ## Features
 
@@ -39,6 +39,7 @@ A modern, dark-themed landing page for digital services built with Bootstrap 5.
 
 ## ScreenShot of the Page : 
 
+<img width="1357" alt="Screenshot 2025-04-13 at 5 56 02 PM" src="https://github.com/user-attachments/assets/e4e85e7f-edcc-46c2-91ce-0dc87b5ed990" />
 
 
 
