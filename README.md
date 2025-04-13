@@ -24,7 +24,7 @@ A modern, dark-themed landing page for digital services built with Bootstrap 5.
 
 1. Clone the repository:
   ```bash
-   git clone https://github.com/yourusername/nexus-services-landing.git
+   git clone https://github.com/mahmoudadel810/DolaServices.git
 ```
 
 2.Navigate to project directory:
