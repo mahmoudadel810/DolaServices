@@ -46,16 +46,16 @@ A modern, dark-themed landing page for digital services built with Bootstrap 5.
 
 
 
-##Dependencies
+## Dependencies
 1- Bootstrap 5.3
 2- Font Awesome 6
 3- Google Fonts (optional)
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Live Demo
+## Live Demo
 View on GitHub Pages : 
 ([Live Demo](https://mahmoudadel810.github.io/DolaServices/))
 
